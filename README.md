@@ -2,12 +2,14 @@
 
 Real Estate Blockchain Initiative website
 
-Ensure you have gatsby
+Ensure you have Gatsby
 
-$ npm install -g gatsby-cli
+\# npm install -g gatsby-cli
 
 Then
 
-$ npm install
+\# npm install
 
-$ gatsby develop OR $ gatsby build; gatsby serve
+\# gatsby develop  
+      OR  
+\# gatsby build; gatsby serve

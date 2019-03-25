@@ -7,7 +7,7 @@ const Hero = () => (
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-5 d-flex flex-column justify-content-center align-items-start">
-          <label>Advancing Real Estate Into The 21st Century</label>
+          <label>Advancing Blockchain in Real Estate </label>
           <h1>The Real Estate Blockchain Initiative</h1>
           <a class="btn-blue" href="#">
             Learn More

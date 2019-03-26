@@ -15,22 +15,17 @@ class Applications extends Component {
             <div className="row">
               <div className="col-12 text-center">
                 <h2 className="h1">
-                  Blockchain
-                  <br />
-                  Applications
+                Use Cases
                 </h2>
               </div>
               <div className="col-12 col-md-4 app-holder">
                 <div className="inner text-center">
                   <img src={Icon} alt="icon" />
                   <h3>
-                    Property
-                    <br /> management
+                  Event Catalog
                   </h3>
                   <p>
-                    Real estate property transfers can be registered on a public
-                    blockchain ledger, leveraging auditability for external
-                    stakeholders and lowering bureaucracy times and costs.
+                  Using Blockchain to help drive adoption the RESO event catalog. Register standards based events to the ledger which can easily be received by other parties in the network.
                   </p>
                 </div>
               </div>
@@ -38,13 +33,10 @@ class Applications extends Component {
                 <div className="inner text-center">
                   <img src={Icon} alt="icon" />
                   <h3>
-                    Home automation
-                    <br /> services
+                    Unique Property
                   </h3>
                   <p>
-                    Smart contract technologies coupled with shared transactions
-                    ledgers could automate service provision both in the context
-                    of home automation and post-occupancy management.
+                  A community supported ledger for identification of unique property records using RESO standards. A crowdsourced stratey ensures the most compliant method for measuring uniquness.
                   </p>
                 </div>
               </div>
@@ -52,14 +44,10 @@ class Applications extends Component {
                 <div className="inner text-center">
                   <img src={Icon} alt="icon" />
                   <h3>
-                    Home
-                    <br /> sharing
+                  Have an idea?
                   </h3>
                   <p>
-                    Among decentralized applications built on top of blockchain
-                    infrastructures, automatic home sharing services represent
-                    an interesting evolution of current centralized homestay
-                    networks.
+                    We are looking for industry stakeholders to help drive new and exciting use cases for Blockchain in every real estate business. Contact us below with your ideas...
                   </p>
                 </div>
               </div>
@@ -74,15 +62,11 @@ class Applications extends Component {
             <div className="row">
               <div className="col-12 col-md-12 col-lg-5">
                 <h2 className="h1">
-                  Main areas of interest in the Real Estate
+                  Building the future of real estate data, together
                 </h2>
                 <p>
-                  Digital asset & Risk Management: decentralized information
-                  layers enable interoperable management for trading and post
-                  trading activities, which are typically related to financial
-                  assets lifecycle. In particular, Smart Bond maps a meaningful
-                  scenario in terms of process automation and dematerialization
-                  opportunities.
+                Blockchain, much like our real estate technology community relies on a network of passionate and interest aligned people to deliver the most reliable data to market. <br/><br/>
+                The main goal of RBI is to inspire all of the smartest technologist in real estate to continue to do this, while collaboratively adopting Blockchain to help facilitate this.
                 </p>
               </div>
             </div>

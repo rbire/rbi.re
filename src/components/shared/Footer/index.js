@@ -10,10 +10,10 @@ const Footer = () => (
     <div className="container">
       <div className="row">
         <div className="col-12 col-md-5">
-          <h2 className="h1">Lorem ipusm dolor</h2>
+          <h2 className="h1">Contact us</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius
-            tempor incididunt ut labore et dolore magna aliqua.
+            We are looking for industry stakeholders to participate in this collective effort of adopting Blockchain in real estate. <br/><br/>
+            If you have a strong use case or would like to sponsor the R&D of a particular initiative, please contact us...
           </p>
         </div>
         <div className="col-12 col-md-6 offset-md-1">
@@ -21,7 +21,7 @@ const Footer = () => (
             <form>
               <div className="row">
                 <div className="col-12 text-center">
-                  <h2>Lorem Ipsum Dolor</h2>
+                  <h2>Contact us</h2>
                 </div>
                 <div className="col-12 form-group">
                   <label>Name</label>

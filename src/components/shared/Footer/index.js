@@ -21,39 +21,9 @@ const Footer = () => (
             <form>
               <div className="row">
                 <div className="col-12 text-center">
-                  <h2>Contact us</h2>
-                </div>
-                <div className="col-12 form-group">
-                  <label>Name</label>
-                  <input
-                    type="text"
-                    name="name"
-                    required=""
-                    className="form-control"
-                  />
-                </div>
-                <div className="col-12 form-group">
-                  <label>Email</label>
-                  <input
-                    type="email"
-                    name="email"
-                    required=""
-                    className="form-control"
-                  />
-                </div>
-                <div className="col-12 form-group">
-                  <label>Industry segment</label>
-                  <input
-                    type="text"
-                    name="industry"
-                    required=""
-                    className="form-control"
-                  />
-                </div>
-                <div className="col-12 text-center">
-                  <button type="submit" className="btn-blue big">
-                    Tell me more
-                  </button>
+                  <a href="mailto:kc@cto.ai?subject=RBI Inquiry" className="btn-blue big">
+                    Send us an email
+                  </a>
                 </div>
               </div>
             </form>

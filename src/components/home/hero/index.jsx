@@ -17,6 +17,7 @@ const Hero = () => (
           <img src={HeroSvg} alt="" />
         </div>
         <Slider />
+        <a name="about" />
       </div>
     </div>
   </section>

@@ -17,6 +17,7 @@ const About = () => (
         <VideoPlayer />
       </div>
     </div>
+  <a name="uses" />
   </section>
 )
 

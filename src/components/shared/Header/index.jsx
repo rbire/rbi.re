@@ -70,19 +70,19 @@ export default class Example extends React.Component {
             <Collapse isOpen={isOpen} navbar>
               <Nav className="ml-auto" navbar>
                 <NavItem>
-                  <NavLink href="#">Home</NavLink>
+                  <NavLink target="_blank" href="https://github.com/rbire">Github</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">About</NavLink>
+                  <NavLink href="#about">About</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">Features</NavLink>
+                  <NavLink href="#uses">Use Cases</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">FAQ</NavLink>
+                  <NavLink href="#contact">Contact</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">Team</NavLink>
+                  <NavLink target="_blank "href="https://github.com/orgs/rbire/people">Team</NavLink>
                 </NavItem>
               </Nav>
             </Collapse>

@@ -72,6 +72,7 @@ class Applications extends Component {
             </div>
           </div>
         </section>
+        <a name="contact" />
       </Fragment>
     )
   }

@@ -22,7 +22,7 @@ class VideoPlayer extends Component {
           <ModalVideo
             channel="youtube"
             isOpen={this.state.isOpen}
-            videoId="L61p2uyiMSo"
+            videoId="xPZx7i-zV48"
             onClose={() => this.setState({ isOpen: false })}
           />
           <button className="btn-play" onClick={this.openModal}>

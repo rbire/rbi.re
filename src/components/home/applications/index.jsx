@@ -25,7 +25,7 @@ class Applications extends Component {
                   Event Catalog
                   </h3>
                   <p>
-                  Using Blockchain to help drive adoption the RESO event catalog. Register standards based events to the ledger which can easily be received by other parties in the network.
+                  Using Blockchain to help drive adoption of the RESO event catalog. Register standards based events to the ledger which can easily be received by other parties in the network.
                   </p>
                 </div>
               </div>
@@ -36,7 +36,7 @@ class Applications extends Component {
                     Unique Property
                   </h3>
                   <p>
-                  A community supported ledger for identification of unique property records using RESO standards. A crowdsourced stratey ensures the most compliant method for measuring uniquness.
+                  A community supported ledger for identification of unique property records using RESO standards. A industry-sourced ledger ensures the most compliant method for measuring uniquness.
                   </p>
                 </div>
               </div>
@@ -65,8 +65,8 @@ class Applications extends Component {
                   Building the future of real estate data, together
                 </h2>
                 <p>
-                Blockchain, much like our real estate technology community relies on a network of passionate and interest aligned people to deliver the most reliable data to market. <br/><br/>
-                The main goal of RBI is to inspire all of the smartest technologist in real estate to continue to do this, while collaboratively adopting Blockchain to help facilitate this.
+                Blockchain, much like our real estate technology community, relies on a network of passionate and interest-aligned people to deliver the most reliable data to market. <br/><br/>
+                The main goal of RBI is to inspire passionate technologist in real estate to continue to do this, through collaboratively adopting Blockchain as a new medium for it.
                 </p>
               </div>
             </div>
